@@ -1,0 +1,13 @@
+:root {
+	--background-selector: pink;
+}
+.App {
+	font-family: sans-serif;
+	text-align: center;
+	background-color: var(--background-selector);
+}
+input {
+	padding-left: auto;
+
+	display: block;
+}

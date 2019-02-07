@@ -1,2 +1,0 @@
-# RGBHex
-Created with CodeSandbox
